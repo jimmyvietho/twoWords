@@ -2,3 +2,16 @@ body {
     background-color: #F2EBC4;
     color: #BF5349;
 }
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
