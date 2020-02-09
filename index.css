@@ -5,13 +5,17 @@ body {
 
 nav ul {
     list-style-type: none;
+    
 }
 
 nav li {
-    text-decoration: none;
+   
     display: inline-block;
 }
 
+nav a {
+    text-decoration: none;
+}
 nav a:hover {
     text-decoration: underline;
 }
