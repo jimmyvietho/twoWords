@@ -22,7 +22,6 @@ nav li {
 
 nav a {
     text-decoration: none;
-   
 }
 
 a:visited {
@@ -33,8 +32,11 @@ nav a:hover {
     text-decoration: underline;
 }
 
-
+h2 {
+    color: #BF5349;
+}
 
 p {
-    text-align: center;
+    color: #594336;
+    margin: 0 1rem;
 }
