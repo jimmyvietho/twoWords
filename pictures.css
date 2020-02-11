@@ -31,3 +31,16 @@ a:visited {
 nav a:hover {
     text-decoration: underline;
 }
+p {
+    text-align: center;
+}
+.grid-container {
+    display: -ms-inline-grid;
+    text-align: center;
+}
+
+.grid-item {
+    height: 15rem;
+    max-width: 20rem;
+}
+
