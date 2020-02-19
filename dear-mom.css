@@ -2,11 +2,11 @@ body {
     background-color: #F2EBC4;
     color: #594336;
     font-family: 'Crimson Text', serif;
-    
+    width: 80%;
+    margin: 0 auto;
 }
 
 nav {
-    display: flex;
     flex-flow: row wrap;
     justify-content: center;
 }
@@ -34,7 +34,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-p {
+
+h1 {
     text-align: center;
 }
-
