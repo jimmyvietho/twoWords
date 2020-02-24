@@ -34,13 +34,18 @@ nav a:hover {
 p {
     text-align: center;
 }
-.grid-container {
-    display: -ms-inline-grid;
-    text-align: center;
-}
 
 .grid-item {
     height: 15rem;
     max-width: 20rem;
 }
+
+.grid-item:hover {
+    opacity: 0.5;
+}
+.grid-container { 
+    display: -ms-inline-grid; 
+    text-align: center; 
+}
+
 
