@@ -42,10 +42,9 @@ p {
 
 .grid-item:hover {
     opacity: 0.5;
+
 }
 .grid-container { 
     display: -ms-inline-grid; 
     text-align: center; 
 }
-
-
