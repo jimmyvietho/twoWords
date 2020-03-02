@@ -12,7 +12,6 @@ nav {
 
 nav ul {
     list-style-type: none;
-    
 }
 
 nav li {
@@ -31,6 +30,7 @@ a:visited {
 nav a:hover {
     text-decoration: underline;
 }
+
 p {
     text-align: center;
 }
@@ -42,8 +42,8 @@ p {
 
 .grid-item:hover {
     opacity: 0.5;
-
 }
+
 .grid-container { 
     display: -ms-inline-grid; 
     text-align: center; 
