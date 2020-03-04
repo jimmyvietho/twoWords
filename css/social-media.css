@@ -25,7 +25,7 @@ nav a {
     text-decoration: none;
 }
 
-a:visited {
+a, a:visited {
     color: #594336;
 }
 
@@ -42,3 +42,4 @@ p {
     color: #594336;
     margin: 0 1rem;
 }
+
